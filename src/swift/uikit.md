@@ -1,0 +1,3 @@
+# UIKit
+
+The UIKit framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for  implementing your interface, the event handling infrastructure for  delivering Multi-Touch and other types of input to your app, and the  main run loop needed to manage interactions among the user, the system,  and your app. Other features offered by the framework include animation  support, document support, drawing and printing support, information  about the current device, text management and display, search support,  accessibility support, app extension support, and resource management [[1]](https://developer.apple.com/documentation/uikit).

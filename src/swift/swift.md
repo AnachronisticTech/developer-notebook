@@ -1,1 +1,3 @@
 # Swift
+
+Swift is a general-purpose, multi-paradigm, compiled programming  language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS,  and Linux [[1]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiflJiB4YTqAhUWiFwKHbN8CsIQmhMwJXoECAQQAg&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSwift_(programming_language)&usg=AOvVaw3OFplHT-MyqT56q1lh2p8a).

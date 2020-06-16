@@ -1,0 +1,5 @@
+# AppKit
+
+AppKit contains all the objects  you need to implement the user interface for a macOS app—windows,  panels, buttons, menus, scrollers, and text fields—and it handles all  the details for you as it efficiently draws on the screen, communicates  with hardware devices and screen buffers, clears areas of the screen  before drawing, and clips views. 
+
+The framework also provides APIs you use to make your app accessible to users with disabilities (see [Accessibility](https://developer.apple.com/documentation/appkit/accessibility)); to learn more about localizing your app for different languages, countries, or cultural regions, see [Internationalization and Localization Guide](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html#//apple_ref/doc/uid/10000171i) [[1]](https://developer.apple.com/documentation/appkit). 

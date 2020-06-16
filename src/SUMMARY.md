@@ -10,6 +10,7 @@
     - [UIPageViewController](./swift/uikit/uiPageViewController.md)
       - [orderedViewControllers](./swift/uikit/uiPageViewController/orderedViewControllers.md)
       - [setViewControllers](./swift/uikit/uiPageViewController/setViewControllers.md)
+      - [Customising the page dots](./swift/uikit/uiPageViewController/customisation.md)
     - [UIPageViewControllerDataSource](./swift/uikit/uiPageViewControllerDataSource.md)
       - [viewControllerBefore](./swift/uikit/uiPageViewController/dataSource/viewControllerBefore.md)
       - [viewControllerAfter](./swift/uikit/uiPageViewController/dataSource/viewControllerAfter.md)

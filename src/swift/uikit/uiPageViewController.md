@@ -6,6 +6,13 @@ The `UIPageViewController` class is a container view for presenting multiple vie
 import UIKit
 
 class PageViewController: UIPageViewController {
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Used when adding UIPageViewControllerDataSource
+        // dataSource = self
+    }
+    
     // Class definition
 }
 ```

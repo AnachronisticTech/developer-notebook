@@ -46,8 +46,8 @@
     - [execvpe](./posix/exec/execvpe.md)
     - [errno](./posix/exec/errno.md)
 - [Tools](./tools/tools.md)
+  - [Xcode](./tools/xcode.md)
   - [Swift Package Manager](./tools/spm.md)
   - [Gradle](./tools/gradle.md)
   - [make/cmake](./tools/make.md)
-- [StackOverflow Reference](./reference.md)
 
